@@ -1,6 +1,6 @@
 This is the final project for the course STATS-507. The folder contains a well-documented executable codebase and a 2-page summary report. The project lasted approximately five weeks and totaled approximately 40 hours.
 
-Projet_Analysis: Analyzing the dataset mertcobanov/animals;
+Project_Analysis: Analyzing the dataset mertcobanov/animals;
 
 Project_PCA_SVM: PCA dimensionality reduction, SVM classification;
 
